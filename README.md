@@ -4,5 +4,4 @@
 - 😄 Atualmente estou cursando Ciência da Computação
 - 🌱 Atualmente estou aprendendo a linguagem JAVA
 - 📫 Como entrar em contato comigo:  lu.mont2019@gmail.com
-- 😄 Atualmente estou cursando Ciência da Computação
 -->
