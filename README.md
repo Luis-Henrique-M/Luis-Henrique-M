@@ -1,5 +1,7 @@
 <h1 align=center>👋 Olá! Meu nome é Luís Henrique.</h1>
 
+![ia (1)](https://github.com/luishmonteiro/luishmonteiro/assets/128317118/894808e7-a8d1-4c41-8882-8099b6f78b2b)
+
 🎓 Estou em busca de conhecimento e crescimento na área de desenvolvimento de software. Tenho um entendimento básico em HTML, CSS e JavaScript, além de habilidades em Java. Estou constantemente aprimorando minhas habilidades técnicas e buscando aprender novas tecnologias.
 
 🌟 Minhas áreas de interesse incluem desenvolvimento web, onde espero utilizar minhas habilidades para criar experiências digitais incríveis para os usuários. Estou ansioso para expandir meu conhecimento em tecnologias como React.js e aprofundar meu entendimento em IA e SQL.
