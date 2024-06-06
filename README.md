@@ -1,4 +1,4 @@
-👋 Olá! Meu nome é Luís Henrique, tenho 19 anos e estou atualmente cursando o 3º semestre de Ciência da Computação.
+<h1 align=center>👋 Olá! Meu nome é Luís Henrique.</h1>
 
 🎓 Estou em busca de conhecimento e crescimento na área de desenvolvimento de software. Tenho um entendimento básico em HTML, CSS e JavaScript, além de habilidades em Java. Estou constantemente aprimorando minhas habilidades técnicas e buscando aprender novas tecnologias.
 
