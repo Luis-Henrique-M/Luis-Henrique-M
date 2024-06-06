@@ -9,3 +9,9 @@
 🌍 No momento, estou em busca de oportunidades de estágio ou projetos onde eu possa aplicar e expandir minhas habilidades enquanto contribuo para soluções inovadoras e impactantes.
 
 🚀 Se você está interessado em colaborar ou conectar, não hesite em entrar em contato! Estou sempre aberto para aprender, colaborar e crescer juntos na jornada da tecnologia.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luishmonteiro/luishmonteiro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luishmonteiro/luishmonteiro/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luishmonteiro/luishmonteiro/output/github-contribution-grid-snake.svg">
+</picture>
